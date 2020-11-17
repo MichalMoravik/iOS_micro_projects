@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>125713037558-3v09hdp8o60p2t3b21vog8joo9s3105k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.125713037558-3v09hdp8o60p2t3b21vog8joo9s3105k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAdzZkAuhimzSdKr9O8AjurWRbEkFXC8o4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>125713037558</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.michalmoravik.cloudStoragePhoto</string>
+	<key>PROJECT_ID</key>
+	<string>cloudstoragephoto</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cloudstoragephoto.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:125713037558:ios:55243fa467059932</string>
+	<key>DATABASE_URL</key>
+	<string>https://cloudstoragephoto.firebaseio.com</string>
+</dict>
+</plist>
